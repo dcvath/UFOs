@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# UFO Sightnings Analysis
 
 ## Overview of Project
 
